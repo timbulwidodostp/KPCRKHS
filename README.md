@@ -1,6 +1,8 @@
 # KPCRKHS
 Kernel partial correlation with RKHS method Use KPCRKHS (KPC) With (In) R Software
 
+https://www.youtube.com/watch?v=MdsQ-ksCrXI
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
